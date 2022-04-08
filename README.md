@@ -37,16 +37,16 @@
 &emsp;&emsp;(四) 環境架設 :        
 &emsp;&emsp;&emsp;https://forum.gamer.com.tw/C.php?bsn=60292&snA=6494   
 &emsp;(2) Sobel operator (左:原圖，右:邊緣偵測後後的圖)    
-&emsp;&emsp;(一) image1.jpg 
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/1.png" width="350" height="150">   
-&emsp;&emsp;(二) image2.jpg  
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/2.png" width="350" height="150">   
+&emsp;&emsp;(一) image1.jpg   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/1.png" width="300" height="150">      
+&emsp;&emsp;(二) image2.jpg   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/2.png" width="300" height="150">      
 &emsp;&emsp;(三) image3.jpg   
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/1.png" width="350" height="200">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/1.png" width="300" height="200">   
 &emsp;(3) Laplacian of a Gaussian (LoG) (左:原圖，右:邊緣偵測後後的圖)   
 &emsp;&emsp;(一) image1.jpg  
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/4.png" width="350" height="150">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/4.png" width="300" height="150">   
 &emsp;&emsp;(二) image2.jpg   
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/5.png" width="350" height="150">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/5.png" width="300" height="150">   
 &emsp;&emsp;(三) image3.jpg  
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/6.png" width="350" height="200">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/res_image/6.png" width="300" height="200">   
