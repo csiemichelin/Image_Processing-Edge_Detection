@@ -27,7 +27,7 @@
 **2. Laplacian of a Gaussian (LoG)**   
 &emsp;(1) 目的 : 拉普拉斯算子可以突出圖像中強度發生快速變化的區域，因此常用在邊緣檢測任務當中。在進行Laplacian操作之前通常需要先用高斯平滑濾波器對圖像進行平滑處理，以降低Laplacian操作對於噪聲的敏感性。  
 &emsp;(2) 公式 :  
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/tech_image/3.png" width="500" height="300">&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/tech_image/4.png" width="150" height="150">    
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/tech_image/3.png" width="400" height="200">&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Edge_Detection/blob/main/tech_image/4.png" width="150" height="150">    
 &emsp;&emsp;在此實驗中利用一個5 * 5的矩陣作為 mask，對像素做完運算以後，取絕對值，並檢查數值是否超過255，如果超過的話，數值為255。   
 ## Experimental_results   
 &emsp;(1) 前置作業 :   
